@@ -76,7 +76,7 @@ I am a Computer Science and Engineering student interested in software developme
 
 ## 🔗 Connect With Me
 
-- **GitHub:** [Visit My GitHub Profile](YOUR_GITHUB_PROFILE_URL)
+- **GitHub:** [Visit My GitHub Profile](https://github.com/sbangar973-design/Portfolio.git)
 - **Portfolio:** [Visit My Website](https://portfolio-xayy.vercel.app/)
 
 ---
