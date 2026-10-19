@@ -6,7 +6,7 @@ Welcome to my Personal Portfolio! This website showcases my profile, technical s
 
 ## 🚀 Live Portfolio
 
-**Visit my portfolio:** [View Live Website](YOUR_VERCEL_DEPLOYMENT_URL)
+**Visit my portfolio:https://portfolio-xayy.vercel.app/
 
 ## 📸 Screenshots
 
@@ -77,7 +77,7 @@ I am a Computer Science and Engineering student interested in software developme
 ## 🔗 Connect With Me
 
 - **GitHub:** [Visit My GitHub Profile](YOUR_GITHUB_PROFILE_URL)
-- **Portfolio:** [Visit My Website](YOUR_VERCEL_DEPLOYMENT_URL)
+- **Portfolio:** [Visit My Website](https://portfolio-xayy.vercel.app/)
 
 ---
 
