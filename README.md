@@ -10,6 +10,8 @@ Welcome to my Personal Portfolio! This website showcases my profile, technical s
 
 ## 📸 Screenshots
 
+<img width="1920" height="1080" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/fe174ac2-c554-47fb-8f3b-989be71e20ef" />
+
 
 ### Home / About Section
 ![Portfolio Home Section](screenshots/hero.png)
