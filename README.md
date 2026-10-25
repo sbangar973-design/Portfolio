@@ -14,10 +14,13 @@ Welcome to my Personal Portfolio! This website showcases my profile, technical s
 
 
 ### Home / About Section
-![Portfolio Home Section](screenshots/hero.png)
+<img width="1920" height="1080" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/fe174ac2-c554-47fb-8f3b-989be71e20ef" />
+
+
 
 ### Skills and Projects Section
-![Portfolio Skills and Projects](screenshots/skills-projects.png)
+<img width="1920" height="1080" alt="Screenshot (207)" src="https://github.com/user-attachments/assets/5a1cb7de-20d5-4f55-abfc-5f3a5188255d" />
+
 
 ## 🛠️ Tech Stack
 
