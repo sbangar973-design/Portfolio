@@ -6,11 +6,7 @@ Welcome to my Personal Portfolio! This website showcases my profile, technical s
 
 ## 🚀 Live Portfolio
 
-**Visit my portfolio:https://portfolio-xayy.vercel.app/
-
-## 📸 Screenshots
-
-<img width="1920" height="1080" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/fe174ac2-c554-47fb-8f3b-989be71e20ef" />
+**Visit my portfolio:https://vercel.com/sbangar973-design/portfolio-kbqs
 
 
 ### Home / About Section
